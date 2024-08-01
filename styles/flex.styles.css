@@ -1,0 +1,26 @@
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-nav {
+    display: flex;
+}
+.intro .container-p {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo h1 {
+    display: flex;
+    align-items: center;
+}
+.redes .redes-nav {
+    display: flex;
+    align-items: center;
+}
+.nav-a {
+    display: flex;
+    align-items: center;
+}

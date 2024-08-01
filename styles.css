@@ -1,1 +1,28 @@
-
+body {
+    max-width: 1136px;
+    margin: 0 auto;
+}
+.header {
+    padding: 32px 0px 32px 0px;
+}
+.nav-a {
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.logo svg {
+    margin-right: 0.5rem;
+}
+.intro {
+    padding: 32px 0px 32px 0px;
+}
+.foto-perfil img {
+    width: 368px;
+    height: 368px;
+    border-radius: 100%;
+}
+.space {
+    margin-bottom: 20px;
+}
