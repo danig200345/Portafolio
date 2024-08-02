@@ -26,3 +26,8 @@ a {
 .space {
     margin-bottom: 20px;
 }
+.sobre {
+    padding: 64px 0px 64px 0px;
+    background-color: #eaf2fd;
+    max-width: none;
+}
