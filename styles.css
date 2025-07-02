@@ -8,10 +8,7 @@
 html {
     scroll-behavior: smooth;
 }
-body {
-    max-width: max-content;
-    margin: var(--margin-body);
-}
+
 .header {
     max-width: var(--width-min);
     margin: var(--margin-body);
@@ -28,6 +25,8 @@ a {
     margin-right: 0.5rem;
 }
 .intro {
+    max-width: var(--width-min);
+    margin: var(--margin-body);
     padding: 32px 0px 32px 0px;
 }
 
@@ -42,9 +41,11 @@ a {
 .sobre {
     padding: 64px 0px 64px 0px;
     background-color: #eaf2fd;
-    max-width: none;
 }
 .sobre-c {
     max-width: var(--width-min);
     margin: var(--margin-body);
+}
+.skill {
+    padding: 32px 0px 32px 0px;
 }
